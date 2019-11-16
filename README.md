@@ -20,14 +20,14 @@ HACKATHLON Santa Severa
 -link mappa- https://www.openstreetmap.org/copyright;
 -API mappe sentinel- https://www.sentinel-hub.com/;
 -API google maps for combining the data- https://developers.google.com/maps/documentation/javascript/combining-data;
-
+-API Arpa Lazio- http://www.arpalazio.gov.it/ambiente/open-data/;
 
 
 # FRONTEND 
 -link mappa- https://www.openstreetmap.org/copyright;
 -jsCanvas for dynamic charts- https://canvasjs.com/jquery-charts/;
 -js for creating interactive maps- https://leafletjs.com/examples.html;
-
+-API Arpa Lazio- http://www.arpalazio.gov.it/ambiente/open-data/;
 
 # ANALLISI DATI
 -API Arpa Lazio- http://www.arpalazio.gov.it/ambiente/open-data/;
