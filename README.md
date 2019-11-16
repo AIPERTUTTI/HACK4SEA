@@ -32,3 +32,15 @@ HACKATHLON Santa Severa
 # ANALLISI DATI
 -API Arpa Lazio- http://www.arpalazio.gov.it/ambiente/open-data/;
 -How To access Copernicus- https://www.copernicus.eu/en/how/how-access-data;
+
+
+
+# SEMINARI
+
+- Roberto Giuliani (Lazio Innova) [Gobbi-Sasanelli]
+- Thomas Moranduzzo (AQUA-X) [Mastranza-Iancu]
+- Davide De Santis (Tor-Vergata) [Mastranza]
+- Bernardo De Bernardis (Copernicus user forum) [Eudizi-Iancu]
+- Stefano Varone (Guardie der mare) [Sasanelli-Iancu] 
+- Giuliano Marra (Castalia) [Sasanelli-Iancu]
+- Amanda Regan (phi-Lab InCubed) [Iancu-Eudizi]
