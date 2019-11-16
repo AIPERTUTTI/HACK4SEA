@@ -25,7 +25,7 @@ HACKATHLON Santa Severa
 
 # FRONTEND 
 -link mappa- https://www.openstreetmap.org/copyright;
-
+-jsCanvas for dynamic charts- https://canvasjs.com/jquery-charts/;
 
 
 
