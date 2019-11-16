@@ -19,7 +19,7 @@ HACKATHLON Santa Severa
 # BACKEND
 -link mappa- https://www.openstreetmap.org/copyright;
 -API mappe sentinel- https://www.sentinel-hub.com/;
-
+-API google maps for combining the data- https://developers.google.com/maps/documentation/javascript/combining-data;
 
 
 
