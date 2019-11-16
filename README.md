@@ -17,14 +17,14 @@ HACKATHLON Santa Severa
 
 
 # BACKEND
-
-
+-link mappa- https://www.openstreetmap.org/copyright;
+-API mappe sentinel- https://www.sentinel-hub.com/;
 
 
 
 
 # FRONTEND 
-
+-link mappa- https://www.openstreetmap.org/copyright;
 
 
 
