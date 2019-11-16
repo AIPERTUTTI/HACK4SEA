@@ -21,7 +21,7 @@ HACKATHLON Santa Severa
 -API mappe sentinel- https://www.sentinel-hub.com/;
 -API google maps for combining the data- https://developers.google.com/maps/documentation/javascript/combining-data;
 -API Arpa Lazio- http://www.arpalazio.gov.it/ambiente/open-data/;
-
+-How To access Copernicus- https://www.copernicus.eu/en/how/how-access-data;
 
 # FRONTEND 
 -link mappa- https://www.openstreetmap.org/copyright;
@@ -31,3 +31,4 @@ HACKATHLON Santa Severa
 
 # ANALLISI DATI
 -API Arpa Lazio- http://www.arpalazio.gov.it/ambiente/open-data/;
+-How To access Copernicus- https://www.copernicus.eu/en/how/how-access-data;
